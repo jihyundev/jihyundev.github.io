@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발블로그는 어떻게 써야 하는 걸까"
+title                    : "개발로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jihyeon Jeong"
-description              : "다양한 트러블슈팅을 기록하는 블로그"
+description              : "개발블로그"
 url                      : "https://jihyundev.github.io"
 baseurl                  : ""
 repository               : "jihyundev/jihyundev.github.io"
@@ -103,17 +103,17 @@ analytics:
 # Site Author
 author:
   name             : "Jihyeon Jeong"
-  avatar           : "/assets/images/memoji_macbook.png"
-  bio              : "Web Frontend Developer. "
+  avatar           : "/assets/images/charlie.JPG"
+  bio              : "Web Frontend Developer "
   location         : "Seoul, Korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "aawlgus12@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jihyundev"
+    - label: "aawlgus12@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: ""
 
 # Site Footer
 footer:
